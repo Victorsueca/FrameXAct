@@ -1,0 +1,7 @@
+{
+    "defaultProvider": "modrinth",
+    "updateChannel": "ALL",
+    "hidden": [
+        "clear-skies"
+    ]
+}

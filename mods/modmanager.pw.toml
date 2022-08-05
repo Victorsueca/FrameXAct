@@ -1,0 +1,13 @@
+name = "Mod Manager"
+filename = "modmanager-1.2.3+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6kq7BzRK/versions/1.2.3+1.18/modmanager-1.2.3%2B1.18.jar"
+hash-format = "sha1"
+hash = "57b0ded948fb33a35906a0d9a6007ad6d2b9db9f"
+
+[update]
+[update.modrinth]
+mod-id = "6kq7BzRK"
+version = "SEHNwcr1"
