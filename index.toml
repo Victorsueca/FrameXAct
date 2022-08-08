@@ -109,6 +109,10 @@ file = "config/zoomify.json"
 hash = "795d3de049e1c1af1a8cf0091fa51dde8275cc04bf5c62c850adc9ee3b145fd4"
 
 [[files]]
+file = "icon.png"
+hash = "82fdcca619a3f47458f8f127ba7139d4d10da5b6ec28a6eb5b5b813f33bbbeaa"
+
+[[files]]
 file = "mods/FPS-Monitor-1.18.2-1.2.1.jar"
 hash = "dd5228715272a72f59b96dc86cbe7474827fdbe6fb2304d6e868ac29043c587e"
 
@@ -222,9 +226,8 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
-file = "mods/mcpppp.pw.toml"
-hash = "6059796b073ffbd35fa0f3788aa062124a50dd893b8b09bf54559cae721bb002"
-metafile = true
+file = "mods/mcpppp-de1593a.jar"
+hash = "443b6b0945f8b6b43a78dfa1dc0829865bd7bd8ef68c5ab7383f7463c6b209b4"
 
 [[files]]
 file = "mods/modmanager.pw.toml"
