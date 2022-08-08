@@ -1,13 +1,13 @@
 name = "FrameXAct"
 author = "Victor Oliver"
-version = "18-0.0.0.4"
+version = "18-0.0.0.4.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c3c6021640d7068f3a39908f60ab9714fbb946a0f792549c43cefb5f2698a15f"
+hash = "c9db2e8813abbf8fb64c1f07d4cc88a11b557884d38392375ec3d6f200cdea78"
 
 [versions]
-fabric = "0.14.8"
+fabric = "0.14.9"
 minecraft = "1.18.2"
