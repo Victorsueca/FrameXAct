@@ -315,6 +315,11 @@
 				"reflectivity": 0.3,
 				"absorption": 0.45
 			},
+			"Sculk Sensor": {
+				"example": null,
+				"reflectivity": 0.15,
+				"absorption": 0.85
+			},
 			"Nylium": {
 				"example": null,
 				"reflectivity": 0.4,
@@ -324,11 +329,6 @@
 				"example": null,
 				"reflectivity": 0.35,
 				"absorption": 0.25
-			},
-			"Sculk Sensor": {
-				"example": null,
-				"reflectivity": 0.15,
-				"absorption": 0.85
 			},
 			"Ancient Debris": {
 				"example": null,
