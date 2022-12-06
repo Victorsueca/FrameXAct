@@ -5,7 +5,8 @@
     "ai.arcblroth.projectInception.client.InceptionInterfaceScreen",
     "net.optifine.gui.GuiChatOF",
     "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen",
-    "net.minecraft.class_433"
+    "net.minecraft.class_433",
+    "net.coderbot.iris.gui."
   ],
   "fadeTimeMillis": 200,
   "ease": true,

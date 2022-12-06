@@ -32,10 +32,12 @@
   "lineMaxHeight": 10,
   "lineSpeed": 2.0,
   "lineSpeedDifference": 4.0,
-  "lineDirection": "LEFT",
+  "lineDirection": "RIGHT",
   "lineColors": {
     "red": 1,
     "base2": 1000,
     "blue": 50
-  }
+  },
+  "customSplashLines": [],
+  "addDefaultSplashLines": true
 }
