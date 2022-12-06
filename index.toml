@@ -1,140 +1,184 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports.json"
+file = "config/yosbr/config/NoChatReports.json"
 hash = "6b31dab36910d585153757b7bcd4b3affb5cd83a67167cce251658c8b67354da"
 
 [[files]]
-file = "config/animatica.properties"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "52a949359289b4cebbc1ba2681088facf73e5351cb432251d66acd3a4b835d1e"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "7ac201e2094a0cddef81b33b0813b15725a8224bd35771be19791482bf63a439"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/yosbr/config/animatica.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/appleskin.json5"
+file = "config/yosbr/config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "config/betterf3.json"
+file = "config/yosbr/config/betterf3.json"
 hash = "b421160e349021a6899b8172477ee284d396c954d1fd00ded9a2cefd77c28ea1"
 
 [[files]]
-file = "config/blur.json"
-hash = "c7349ed252312f4401baf7f193b35af3213bc9eac21272939b7c112502baf01b"
+file = "config/yosbr/config/blur.json"
+hash = "edfc79516aba4c8234e79aa5fd71ac7b43cd0b09acb4f88372e70ade97f72f7e"
 
 [[files]]
-file = "config/citresewn-defaults.json"
+file = "config/yosbr/config/citresewn-defaults.json"
 hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
 
 [[files]]
-file = "config/citresewn.json"
+file = "config/yosbr/config/citresewn.json"
 hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
 [[files]]
-file = "config/colormatic.properties"
-hash = "9c612063a46893f0f13747dc33e43d29049f8c415791ebc051377cdcc5d6ac3d"
+file = "config/yosbr/config/colormatic.properties"
+hash = "fff56f4a8eef4616527257a181331f0b90825ff2517100bf2ff30b0a0dc5198f"
 
 [[files]]
-file = "config/continuity.json"
-hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+file = "config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "config/crowdin.txt"
-hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
+file = "config/yosbr/config/dashloader.json"
+hash = "a782cf277262068838b7e323d319774d177281df4f6b228ba5577460af205404"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "dc9cbfc4c7f79a154159cc0fc79c879b0831a0addb84288a0e775cb067a6c087"
+file = "config/yosbr/config/debugify.json"
+hash = "f25337c0b0b3a33d6fd30e91e6b9aadd228807d2be0b544d59cec3cb4e74b1d7"
 
 [[files]]
-file = "config/debugify-descriptions.json"
-hash = "3a7fbb9744f8c66a85364ca010b531d5a328b9e7f0a24645d65c5c2f302e8725"
+file = "config/yosbr/config/defaultoptions.toml"
+hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
-file = "config/debugify.json"
-hash = "ec5b4c02631e885980b48c857c8b8101f132a95f8b18dc9ba193b628486fac54"
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "d5f4905dbdad28bf4291c35d2132bec8ed5db70ce8c1d915b1e43882a357fae6"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "ef2368e002f0fdccf0982bcd3aca47b43aa18f5dfbdd35e9d0156d9e4ca9ff54"
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "f5d359378c6a54384ba993fb949aa03b44538b09e0b714ca476827f74d753591"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "70215b004bf7c3c866bf6c2d66969b7a7a3c3a345a2336bea6e2bda019348f2e"
+file = "config/yosbr/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
-file = "config/forcecloseloadingscreen.json"
+file = "config/yosbr/config/forcecloseloadingscreen.json"
 hash = "1e822abbeacb632b8614ab25af8b331328adaecdf8df48e5344a10ed11b521c8"
 
 [[files]]
-file = "config/fps.json"
+file = "config/yosbr/config/fps.json"
 hash = "8535e5e373d148d6a2647f067248e2604dae9558c37b32ff1d242899b56d46f2"
 
 [[files]]
-file = "config/indium-renderer.properties"
-hash = "4610f2e07986f7eb27bb36436c7bb56b144a2836d91b853c4360e9b63ae680c4"
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "0c0ca4efc12b1cff99ede9efee5e03fe7be8253e2022760f6b428b72f79e74be"
 
 [[files]]
-file = "config/iris.properties"
-hash = "70da50a858b11ba01db5e9b0d28f066a1a8c6ae26bf212c20957de248e479abf"
+file = "config/yosbr/config/iris.properties"
+hash = "ff9c0472ba4eefdd2ca7d384ffbdc5c0145a81bc44536e4500e83b79daab8c24"
 
 [[files]]
-file = "config/lambdacontrols.toml"
-hash = "b0100b6b30dc6aee15981d83b05695b13fb35ace47b433f963e8a5ce8c59c424"
-
-[[files]]
-file = "config/lambdynlights.toml"
+file = "config/yosbr/config/lambdynlights.toml"
 hash = "055a968191588973f11c349f13527c6898fc6bad81e8324cbea25f00aee5871e"
 
 [[files]]
-file = "config/lithium.properties"
+file = "config/yosbr/config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
-file = "config/midnightlib.json"
-hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+file = "config/yosbr/config/midnightlib.json"
+hash = "45421bbd126a17358dce57fda4e7bc3153f503e7c3f2909f20ebef86e0774a89"
 
 [[files]]
-file = "config/modmanager.json"
-hash = "196bc511167d33bf44c82410db991a505bedb90379d5bf79399444ab51ae888d"
-
-[[files]]
-file = "config/modmenu.json"
+file = "config/yosbr/config/modmenu.json"
 hash = "c6b42583005fef3347c77a61bd4af4a9fda001661ea01b9d74862c6ff5cfa783"
 
 [[files]]
-file = "config/no_fog.json"
-hash = "a1e1f7d7c41ff36535c4fe10139eed76b09141ad2d5cbe4380116de492a24e82"
-
-[[files]]
-file = "config/notenoughcrashes.json"
-hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
-
-[[files]]
-file = "config/resounding.json5"
-hash = "0ab0ffa61c0e349edeb96a149345e998d8822bafe1600d80c344fc7b6d8d3b1d"
-
-[[files]]
-file = "config/rrp.properties"
-hash = "edb96f4b997a1046849322fb330632b5ac3ab7d8b207da88ad00dd489d91fb51"
-
-[[files]]
-file = "config/seamless_loading_screen.json"
+file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "00e9c3f52fd5676da3ca770b3b9d2627e82f9dc8b7a4e2e462d072cb05cc83d1"
 
 [[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "00ec5d5455af080d9fe676fd78a28473173d8cda85a991e1e40e3830d7d9358f"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "cac7860a569ffeecc29deeeb6c1e18af72144d517c5a3c5f2eb234488b1304fb"
 
 [[files]]
-file = "config/zoomify.json"
-hash = "59298375b412b6489527dfe911c90a9dad228026a9db08df2615ff7985598d5b"
+file = "config/yosbr/config/sound_physics_remastered/occlusion.properties"
+hash = "875639dff5e0c94173b3c6de7f6dcf25a83217c531bf3317abbee442114fdab7"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
+hash = "d90716a76c9dc9dc1160f2e77283edd445ce1ad0011a811fef1ce1f04f9bc526"
+
+[[files]]
+file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+hash = "6adab1bf627c717a98a6f7b68868de9a5e74864020d545ead7f0e3e6fdaf1540"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "b736648662b6cea75eaf11c35cb57482bacbcf99a2180abe61f364158f313194"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "0ed78a3cbc7fd048c21c39f416546fe7879ff6a19ccedd504b3900d6b8244a4d"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "76983a6cf4e585ec94dbaa65186f3921ec900574bc214c7ad06e51f69972cfec"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/DIM-1/data/raids.dat"
+hash = "2d0a02dc868545f11c7cf58681bf0195010a4a6030f28d895480b8b711b1e3df"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/DIM1/data/raids_end.dat"
+hash = "2d0a02dc868545f11c7cf58681bf0195010a4a6030f28d895480b8b711b1e3df"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/data/raids.dat"
+hash = "2d0a02dc868545f11c7cf58681bf0195010a4a6030f28d895480b8b711b1e3df"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/icon.png"
+hash = "8e928406f69412d864c2360992d39382b5ac434b1ad829913fe81e9a421ad33d"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/level.dat"
+hash = "9a06f86453a9591730da40f6ef6f4ec7c03aa63d9abee6559067ced2e1e9c4c9"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/level.dat_old"
+hash = "da52364a9623960d7762bcfffded2e0f9b04e731f4d92881e1a3e5955474823d"
+
+[[files]]
+file = "config/yosbr/saves/Benchy McBenchface/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
 
 [[files]]
 file = "icon.png"
@@ -161,12 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
@@ -176,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -190,43 +234,58 @@ hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
+hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "ae9db3e7b6c56961d1678cb5a56d53ccb4245d4e5e384ac36e3822c4922586e3"
+hash = "dc155d04bfc0a6749042c1f8fbf4e989603f8af4222ac6c0786e964581ea1e7f"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -236,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -261,54 +320,56 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
-file = "mods/mcpppp-de1593a.jar"
-hash = "443b6b0945f8b6b43a78dfa1dc0829865bd7bd8ef68c5ab7383f7463c6b209b4"
+file = "mods/mcpppp.pw.toml"
+hash = "e8e157403d3f510b5581c93911a31b600237569ec517ca089c3684dff4d84046"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
-metafile = true
-
-[[files]]
-file = "mods/no_fog.pw.toml"
-hash = "122fc69ece0925bcf71d084273f0fcff0c479bbb3733b14e43439e9c30bcdf5b"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+hash = "5bb00c8764af4747bec509578ec574e494f6b3f1dc81c6b419d7a82786797e23"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
-
-[[files]]
-file = "mods/resounding-1.0.0-bc.19.jar"
-hash = "cd97eba27fd7195a615b2d26cc6233cd4afef1ac329ba862c996b0820daf795a"
 
 [[files]]
 file = "mods/seamless-loading-screen-1.4.1+1.19.jar"
 hash = "0fd68c4d813e3f8f710152a075c0e6bb73ad971d4df84b3a44978d8adaeeaff9"
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]
@@ -318,15 +379,25 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
 file = "mods/vtdownloader.pw.toml"
-hash = "23c73f09141fa81161872c7549725eefc0ee85187bcc86e50d2513c17eeb71bf"
+hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
