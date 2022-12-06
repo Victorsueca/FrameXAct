@@ -1,0 +1,13 @@
+name = "MCPPPP"
+filename = "mcpppp-0.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7z6aY71/versions/mUiDFm8G/mcpppp-0.7.3.jar"
+hash-format = "sha1"
+hash = "3d2deadc51b45fd0b59da95de9f77854e919cd44"
+
+[update]
+[update.modrinth]
+mod-id = "V7z6aY71"
+version = "mUiDFm8G"
