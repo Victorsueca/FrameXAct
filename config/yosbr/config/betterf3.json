@@ -24,6 +24,33 @@
 				"gpu": true
 			},
 			"enabled": true
+		}, 
+		{
+			"empty_lines": 2,
+			"name": "empty",
+			"lines": {
+				"nothing": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "target",
+			"name_color": 13434879,
+			"value_color": 16777164,
+			"lines": {
+				"id_fluid": true,
+				"fluid_tags": true,
+				"block_states": true,
+				"targeted_block": true,
+				"block_tags": true,
+				"id_block": true,
+				"nothing": true,
+				"nothing2": true,
+				"targeted_fluid": true,
+				"targeted_entity": true,
+				"fluid_states": true
+			},
+			"enabled": true
 		}
 	],
 	"modules_left": [
