@@ -4,7 +4,7 @@
   "transparency": 215,
   "shadow": true,
   "fpsColor": 16777215,
-  "toggleFps": true,
+  "toggleFps": false,
   "pingColor": 16777215,
   "togglePing": false,
   "memoryColor": 16777215,
